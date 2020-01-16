@@ -1,0 +1,63 @@
+{
+    "suppliers": [
+        {
+            "name": "New Co Ltd",
+            "supplierId": "0"
+        },
+        {
+            "name": "Old Co Ltd",
+            "supplierId": "1"
+        }
+    ],
+    "products": [
+        {
+            "supplierName": "Old Co Ltd",
+            "supplierId": 0,
+            "productId": 0,
+            "product": "Small wongle",
+            "price": "5"
+        },
+        {
+            "supplierName": "Old Co Ltd",
+            "supplierId": 0,
+            "productId": 1,
+            "product": "Large wongle",
+            "price": "8"
+        },
+        {
+            "supplierName": "Old Co Ltd",
+            "supplierId": 0,
+            "productId": 2,
+            "product": "Super wongle",
+            "price": "12"
+        },
+        {
+            "supplierName": "New Co Ltd",
+            "supplierId": 1,
+            "productId": 3,
+            "product": "Mini wongle",
+            "price": "4"
+        },
+        {
+            "supplierName": "New Co Ltd",
+            "supplierId": 1,
+            "productId": 4,
+            "product": "Small wongle",
+            "price": "6"
+        },
+        {
+            "supplierName": "New Co Ltd",
+            "supplierId": 1,
+            "productId": 5,
+            "product": "Large wongle",
+            "price": "9"
+        },
+        {
+            "supplierName": "New Co Ltd",
+            "supplierId": 1,
+            "productId": 6,
+            "product": "Super wongle",
+            "price": "13"
+        }
+    ]
+}
